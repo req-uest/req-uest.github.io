@@ -6,7 +6,8 @@ Canon.Com/ijsetup | Canon wireless printer| setup Canon printer
 	  :width: 350px    
 	  :align: center    
 	  :height: 100px    
-	  :alt: Canon.Com/ijsetup    
+	  :alt: Canon.Com/ijsetup  
+	  :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
 	
 
 Canon.Com/ijsetup will manual you to Install Canon printer brand new updated drivers, for Canon printer setup you could additionally visit canon.com/ijsetup. If we talk about printers the first name comes in our thoughts is Canon printer, on this internet site we will inform you a way to setup & deploy your canon printer with little information approximately computers.
