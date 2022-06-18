@@ -1,12 +1,19 @@
-# Canon.Com/ijsetup | Canon wireless printer| setup Canon printer
+#############
+Canon.Com/ijsetup | Canon wireless printer| setup Canon printer
+#############
 
-
-
+.. image:: Get-Started.png   
+	  :width: 350px    
+	  :align: center    
+	  :height: 100px    
+	  :alt: Canon.Com/ijsetup    
+	  :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
 
 Canon.Com/ijsetup will manual you to Install Canon printer brand new updated drivers, for Canon printer setup you could additionally visit canon.com/ijsetup. If we talk about printers the first name comes in our thoughts is Canon printer, on this internet site we will inform you a way to setup & deploy your canon printer with little information approximately computers.
 
-## How to install the Canon wireless printer on windows computer?
-
+#############
+How to install the Canon wireless printer on windows computer?
+#############
 
 
 **Below steps will help you to setup Canon wireless printer with the help of canon.com/ijsetup official Canon printers’ driver website.**
@@ -18,8 +25,9 @@ Canon.Com/ijsetup will manual you to Install Canon printer brand new updated dri
 5. If it’s not installed automatically then you need to do it manually go to settings on your printer choose wireless option and within 2 minutes press the WPS button on your WIFI router then it will connect with the network.
 6. Once your printer installed test it by giving print from the computer.
 
-## How to setup Canon printer on MAC?
-
+#############
+How to setup Canon printer on MAC?
+#############
 
 **Visit canon.com/ijsetup mac to install Canon printer on MAC.**
 
@@ -30,9 +38,9 @@ Canon.Com/ijsetup will manual you to Install Canon printer brand new updated dri
 5. Click on downloaded file to install Canon printer.
 
 
-
-### If you don’t have USB cable follow below steps.
-
+*************
+If you don’t have USB cable follow below steps.
+*************
 
 
 1. Turn ON Printer.
